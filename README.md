@@ -1,5 +1,4 @@
 
-#Healthcare Management
 <div align="center">
   
 
